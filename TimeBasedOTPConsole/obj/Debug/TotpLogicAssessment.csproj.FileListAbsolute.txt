@@ -1,0 +1,8 @@
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\bin\Debug\TotpLogicAssessment.exe.config
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\bin\Debug\TotpLogicAssessment.exe
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\bin\Debug\TotpLogicAssessment.pdb
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\bin\Debug\TimeBasedOTP.dll
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\bin\Debug\TimeBasedOTP.pdb
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\obj\Debug\TotpLogicAssessment.csprojResolveAssemblyReference.cache
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\obj\Debug\TotpLogicAssessment.exe
+C:\Users\jb\Documents\Visual Studio 2012\Projects\TimeBasedOTP\TotpLogicAssessment\obj\Debug\TotpLogicAssessment.pdb
